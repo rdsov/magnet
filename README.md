@@ -141,9 +141,8 @@ writing a single line of CMake code, or executing a single git command.
 We are working on a way to make Magnet work on existing projects. Right now, it can only
 bootstrap new projects due to fundamental differences of project structures.
 
-### Why can't I edit my CMakeLists.txt files?
-Magnet generates these on the fly, everytime you run `magnet generate` or `magnet pull` – hence why any changes **will 
-be overwritten**. 
+### Can I edit my CMakeLists.txt files afterwards?
+Yes! There is a dedicated section where you can input your custom commands in every file.
 
 However, support for this is planned for the future.
 
