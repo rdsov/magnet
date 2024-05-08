@@ -144,8 +144,6 @@ bootstrap new projects due to fundamental differences of project structures.
 ### Can I edit my CMakeLists.txt files afterwards?
 Yes! There is a dedicated section where you can input your custom commands in every file.
 
-However, support for this is planned for the future.
-
 ### Is Magnet a build tool?
 No. Magnet is a dependency manager. It delegates the actual building process to CMake.
 
