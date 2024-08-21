@@ -28,8 +28,8 @@ Key points:
 
 We are always open to new ideas! But first, please ask yourself these questions:
 
-- Is this feature already requested/implemented?
-- Does it require the user to learn additional concepts (that are specific to Magnet)?
+- Is this feature not yet requested/implemented?
+- Does it not require the user to learn additional concepts (that are specific to Magnet)?
 - Can this feature be implemented on top of existing solutions?
 - Does it simplify the developer experience and every-day tasks?
 - Does it fit the scope of the project?
